@@ -1,1 +1,1 @@
-Consumo da api do rick e morty em Node.js, utilizando reduce, filter, map, e muito mais.
+Consumo da api do rick e morty em Node.js, utlizando a biblioteca axios para manipular informações HTTP. Após o consumo é usado estruturas como map, reduce, forOf, forIn, para realizar a manipulação dos dados obtido.
